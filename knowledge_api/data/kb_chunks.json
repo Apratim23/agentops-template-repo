@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "topic": "booking_policy",
+    "content": "Customers can book up to 30 days in advance. Bookings can be cancelled up to 2 hours before the scheduled time."
+  },
+  {
+    "id": "2",
+    "topic": "menu_info",
+    "content": "Our buffet includes vegetarian, non-vegetarian dishes, live grills, and desserts. Items vary by location."
+  },
+  {
+    "id": "3",
+    "topic": "pricing",
+    "content": "The pricing varies depending on the city and time slot. Lunch and dinner have different rates. Weekend and holiday prices may be higher."
+  }
+]
